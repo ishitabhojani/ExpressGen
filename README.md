@@ -1,4 +1,4 @@
-# Project Name
+# ExpressGen
 
 This project is a web application built using the Express framework and the Express Generator tool. It incorporates several key features including file upload, user authentication, form handling, email communication, session management, and local storage.
 
